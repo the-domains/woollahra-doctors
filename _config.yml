@@ -1,0 +1,14 @@
+layout_spectrum: 0.8728233
+typography_spectrum: 0.2352023
+color:
+  saturation: 0.6125954
+  lightness: 0.6824895
+  brandStrength: 0.2792156
+  rhythmicContrast: 0.6694434
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: woollahra doctors
